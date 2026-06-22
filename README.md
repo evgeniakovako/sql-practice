@@ -24,7 +24,5 @@ This repository contains my practical SQL exercises completed while studying dat
 ## Goal
 
 My goal is to develop practical SQL skills for Technical Support and IT Support roles.
-I will continue updating this repository as I learn new SQL concepts.
-My goal is to develop practical SQL skills for Technical Support and IT Support roles.
 
 I will continue updating this repository as I learn new SQL concepts.
